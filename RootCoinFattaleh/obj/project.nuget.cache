@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fHpVdFOzPPK0aWSRM0HLfW/gO8lh7TVZq+Lde8kTQoRNR3WRCFpNrgU93x9pxyD7Ql4/XqJ7uS3+C2mYppT5kg==",
+  "success": true,
+  "projectFilePath": "/Users/graysonfattaleh/Projects/RootCoinFattaleh/RootCoinFattaleh/RootCoinFattaleh.csproj",
+  "expectedPackageFiles": [
+    "/Users/graysonfattaleh/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/graysonfattaleh/.nuget/packages/starkbank-ecdsa/1.3.0/starkbank-ecdsa.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
